@@ -1,2 +1,2 @@
 # LSH.Generic
-An simple LSH implementation as a library
+A simple LSH implementation as a library
